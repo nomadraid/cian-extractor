@@ -1,0 +1,21 @@
+{
+  "name": "cian",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cherio": "^1.0.0-rc.2",
+    "crawler": "^1.2.0",
+    "mongodb": "^4.4.1",
+    "pmx": "^1.6.7",
+    "progress": "^2.0.1",
+    "proxy-lists": "^1.23.3",
+    "signale": "^1.3.0",
+    "tunnel-agent": "git+https://git@github.com/bda-research/tunnel-agent.git"
+  }
+}
